@@ -145,4 +145,4 @@ streamlit run app.py --server.port 8501 &
 **Athifah Nur Rahman MD**
 Information Systems Student, Hasanuddin University
 📧 athifaahnur145@gmail.com
-🔗 [GitHub](https://github.com/athifaahnr) | [Portfolio](https://athifaahnr.github.io/) | [LinkedIn](www.linkedin.com/in/athifah-n-rahman-184164353)
+🔗 [GitHub](https://github.com/athifaahnr) | [Portfolio](https://athifaahnr.github.io/) | [LinkedIn](https://www.linkedin.com/in/athifah-n-rahman-184164353)
