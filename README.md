@@ -98,12 +98,9 @@ The best model (by F1-Macro) was serialized with `pickle` as a single pipeline o
 
 ## 🖥️ Dashboard Preview
 
-*(Insert a screenshot of the Streamlit dashboard here)*
-
-```markdown
 ![Dashboard Screenshot](assets/dashboard-preview.png)
 ![Result Screenshot](assets/result-preview.png)
-```
+
 
 **Dashboard features:**
 | Feature | Description |
